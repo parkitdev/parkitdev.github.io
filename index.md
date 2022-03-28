@@ -1,4 +1,4 @@
-## Welcome to ParkIt dev's home page
+## Welcome to Prudent's dev home page
 
 You can use the [editor on GitHub](https://github.com/parkitdev/parkitdev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
